@@ -16,6 +16,8 @@ public class Test {
         System.out.println("$$$$$$$  pull test    $$$$$$$$");
         
         System.out.println("$$$$$$$  pull test222    $$$$$$$$");
+
+        System.out.println("preprae to push tag2");
     }
 
 }
