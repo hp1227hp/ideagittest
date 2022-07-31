@@ -11,6 +11,9 @@ public class Test {
         System.out.println("hot-fix update");
 
 
+        System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$");
+
+
     }
 
 }
